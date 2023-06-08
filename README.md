@@ -1,11 +1,14 @@
-# Starlight Starter Kit: Basics
+# Starlight Starter Kit: With Advanced Tailwind Configuration
+
+See the article https://fogbender.com/blog/setting-up-tailwind-with-starlight
 
 ```
-npm create astro@latest -- --template starlight
+npm create astro@latest -- --template JLarky/astro-starlight-tailwind-template
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/JLarky/astro-starlight-tailwind-template)
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/JLarky/astro-starlight-tailwind-template)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/JLarky/astro-starlight-tailwind-template)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
